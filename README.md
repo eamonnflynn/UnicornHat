@@ -1,4 +1,3 @@
-# UnicornHat
-Unicorn Hat Demos
+# UnicornHat Demos
 
-- ValentineHeart.py - Show your Heart to your valentine with this little script
+- ValentineHeart.py - Show your Heart to your valentine with this little script for your raspberry pi
